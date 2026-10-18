@@ -1,0 +1,21 @@
+{
+  "name": "Trailmate J&K — Offline Trail Atlas",
+  "short_name": "Trailmate J&K",
+  "description": "Offline-first trail notes for Jammu & Kashmir.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f9f4",
+  "theme_color": "#20372b",
+  "lang": "en-IN",
+  "categories": ["travel", "navigation", "sports"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
